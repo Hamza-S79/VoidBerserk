@@ -1,2 +1,2 @@
-# Projects
-Repo for uploading both complete and incomplete projects
+# VoidBerserk
+my forgotten space shooter that I will recreate on Unity this time instead of PyGame
